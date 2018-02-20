@@ -12,8 +12,8 @@
 
     }
 
-    function setWords(wordsObj) {
-      savedWordsObj = wordsObj;
+    function setWords(words) {
+      savedWordsObj = words;
       console.log(savedWordsObj);
     }
   }
